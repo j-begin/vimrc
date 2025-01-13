@@ -4,7 +4,7 @@
 "might cause viewing issues on other systems, terminal emulators, multiplexers,
 "etc. Wrapping is also disabled to ensure text appears as it should.
 syntax on
-colorscheme default
+colorscheme codedark
 set nowrap
 
 "Shows current line number and relative line offsets for better usage of vim
