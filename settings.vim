@@ -15,6 +15,7 @@ set relativenumber
 "Ensures that when you press <TAB>, the <TAB> character is actually inserted.
 "It is crazy that this is so complicated for some people and editors.
 set noexpandtab
+set colorcolumn:80
 set shiftwidth:3
 set tabstop:3
 set autoindent
